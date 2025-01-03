@@ -1,0 +1,2 @@
+# SEC
+Simple Encryption Cipher
