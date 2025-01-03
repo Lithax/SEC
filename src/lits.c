@@ -44,6 +44,9 @@ int main() {
     printByteArray(data, data_length);
     printByteArray(encrypted, data_length);
     printByteArray(decrypted, data_length);
+
+    free(encrypted);
+    free(decrypted);
     return 0;
 }
 
