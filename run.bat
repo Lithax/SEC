@@ -1,1 +1,0 @@
-gcc lits.c -o lits.exe && lits.exe
